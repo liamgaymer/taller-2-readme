@@ -35,10 +35,10 @@ proyecto/
 ## Requisitos
 
 - Python 3.8 o superior
-- No necesita librerias externas por ahora
 
 ## Notas
 
 - Los datos se guardan en `students.json` y `teachers.json` automaticamente
 - Proximas funciones: gestion de materias y notas
-- Hecho como proyecto de practica en 2024
+- deje de preguntar tanto james espero mi buena nota
+- ATT: William Osorno 
