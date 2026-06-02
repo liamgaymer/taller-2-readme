@@ -1,6 +1,6 @@
 # Sistema Academico - Gestion de Estudiantes y Profesores
 
-Este es mi proyecto de python para gestionar estudiantes y profesores desde la consola. Lo hice para practicar programacion orientada a objetos y manejo de archivos JSON.
+Este es mi proyecto de python para gestionar estudiantes y profesores desde la consola.
 
 ## ¿Que hace el programa?
 
